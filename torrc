@@ -1,2 +1,3 @@
 EntryNodes {us} StrictNodes 1
 ExitNodes {us},{fr} StrictNodes 1
+MaxCircuitDirtiness 2
