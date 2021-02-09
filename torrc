@@ -1,3 +1,5 @@
+GeoIPFile /app/tor/share/tor/geoip
+GeoIPv6File /app/tor/share/tor/geoip6
 EntryNodes {us} StrictNodes 1
 ExitNodes {us},{fr} StrictNodes 1
 MaxCircuitDirtiness 2
